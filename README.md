@@ -41,4 +41,7 @@ HR-Dashboard/
 ├── bashboard.png/              # Dashboard preview images
 └── README.md                 # Project documentation
 ```
+---
+
 ## 🖼️ ScreenShots
+![Main Dashboard](dashboard.png)
